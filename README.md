@@ -1,6 +1,6 @@
 # FermFooDb: Fermented Food Peptide Database
 
-Welcome to the official repository and documentation overview for **FermFooDb**, a manually curated database of bioactive peptides derived from a wide range of fermented foods. This resource is designed to help researchers and the food industry explore the therapeutic potential of peptides produced during microbial fermentation[cite: 2].
+Welcome to the official repository and documentation overview for **FermFooDb**, a manually curated database of bioactive peptides derived from a wide range of fermented foods. This resource is designed to help researchers and the food industry explore the therapeutic potential of peptides produced during microbial fermentation.
 
 **Web Server:** [https://webs.iiitd.edu.in/raghava/fermfoodb/](https://webs.iiitd.edu.in/raghava/fermfoodb/)
 
@@ -11,7 +11,7 @@ Welcome to the official repository and documentation overview for **FermFooDb**,
 Chaudhary, A., Bhalla, S., Patiyal, S., Raghava, G. P. S., & Sahni, G. (2021). 
 **FermFooDb: A database of bioactive peptides derived from fermented foods.** 
 *Heliyon*, 7(4), e06668. 
-[https://doi.org/10.1016/j.heliyon.2021.e06668](https://doi.org/10.1016/j.heliyon.2021.e06668)[cite: 2]
+[https://doi.org/10.1016/j.heliyon.2021.e06668](https://doi.org/10.1016/j.heliyon.2021.e06668)
 
 ---
 
@@ -20,8 +20,8 @@ Chaudhary, A., Bhalla, S., Patiyal, S., Raghava, G. P. S., & Sahni, G. (2021).
 FermFooDb addresses the need for a consolidated platform focused specifically on peptides obtained from the fermentation of various food matrices. During fermentation, microorganisms like **Lactic Acid Bacteria (LAB)**, yeast, and fungi use proteolytic systems to break down proteins into bioactive peptides that offer numerous health benefits.
 
 The database integrates data from:
-*   **Manual Curation**: Over 2300 research articles were screened, resulting in 134 relevant papers[cite: 2].
-*   **Comprehensive Metrics**: Information includes peptide sequences, mass, $IC_{50}$ values, starter cultures, and fermentation conditions[cite: 2].
+*   **Manual Curation**: Over 2300 research articles were screened, resulting in 134 relevant papers.
+*   **Comprehensive Metrics**: Information includes peptide sequences, mass, $IC_{50}$ values, starter cultures, and fermentation conditions.
 
 ---
 
@@ -56,9 +56,6 @@ The peptides in FermFooDb exhibit a wide range of biological functions:
 ---
 
 ## Contact & Authors
-
-**Anita Chaudhary** (anita.chaudhary@icar.gov.in)
-ICAR-IARI, New Delhi, India.
 
 **Prof. G.P.S. Raghava** (raghava@iiitd.ac.in)
 Department of Computational Biology, IIIT-Delhi, India.
