@@ -13,6 +13,8 @@ Chaudhary, A., Bhalla, S., Patiyal, S., Raghava, G. P. S., & Sahni, G. (2021).
 *Heliyon*, 7(4), e06668. 
 [https://doi.org/10.1016/j.heliyon.2021.e06668](https://doi.org/10.1016/j.heliyon.2021.e06668)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20051943)
+
 ---
 
 ## About the Database
